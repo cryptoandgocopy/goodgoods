@@ -3,6 +3,8 @@ package api
 import (
 	"encoding/json"
 	"log"
+	"os"
+	"strings"
 
 	"goodgoods/data"
 	"goodgoods/utils"
@@ -39,7 +41,14 @@ func Create() {
 	app.Get("/isGood/:origin/:goods", isGood)
 
 	// start
-	log.Fatal(app.Listen(":3000"))
+	port := ":3000"
+	if os.Getenv("PORT") != "" {
+		var sb strings.Builder
+		sb.WriteString(":")
+		sb.WriteString(os.Getenv("PORT"))
+		port = sb.String()
+	}
+	log.Fatal(app.Listen(port))
 }
 
 /*
