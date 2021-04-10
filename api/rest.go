@@ -27,6 +27,16 @@ type externalAdapterData struct {
 	IsGood bool `json:"isGood"`
 }
 
+type apiRequest struct {
+	ID   string         `json:"id"`
+	Data apiRequestData `json:"data"`
+}
+
+type apiRequestData struct {
+	Origin string `json:"origin"`
+	Goods  string `json:"goods"`
+}
+
 /*
 Create a server for rest API
 */
@@ -38,7 +48,7 @@ func Create() {
 	app.Use(logger.New())
 
 	// handlers
-	app.Get("/isGood/:origin/:goods", isGood)
+	app.Post("/isGood", isGood)
 
 	// start
 	port := ":3000"
@@ -55,14 +65,31 @@ func Create() {
 Handle api request for isGood
 */
 func isGood(c *fiber.Ctx) error {
-	// check data
-	responseDOL := data.IsGood(c.Params("origin"), c.Params("goods"))
+	// parse request
+	request := parseRequest(c.Body())
+
+	// check data against database
+	responseDOL := data.IsGood(request.Data.Origin, request.Data.Goods)
 
 	// build JSON response
 	ead := externalAdapterData{responseDOL}
-	ear := externalAdapterResponse{"abc123", ead, "", ""}
+	ear := externalAdapterResponse{request.ID, ead, "", ""}
 	jsonData, err := json.Marshal(ear)
 	utils.CheckErr(err)
 
+	// display json response
 	return c.SendString(string(jsonData))
+}
+
+/*
+Parse JSON request data
+*/
+func parseRequest(request []byte) apiRequest {
+	// read into struct
+	var result apiRequest
+
+	err := json.Unmarshal(request, &result)
+	utils.CheckErr(err)
+
+	return result
 }
