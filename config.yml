@@ -1,2 +1,2 @@
 
-DB_Path: "/data/db.json"
+DB_Path: "./db/db.json"

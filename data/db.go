@@ -12,11 +12,9 @@ import (
 type countryGoods struct {
 	Country     string `json:"country"`
 	Goods       string `json:"goods"`
-	ChildLabor  string `json:"child_labor"`
-	ForcedLabor string `json:"forced_labor"`
+	ChildLabor  bool   `json:"child_labor"`
+	ForcedLabor bool   `json:"forced_labor"`
 }
-
-const yes = "Yes"
 
 /*
 IsGood requests and process data to check if
@@ -33,7 +31,7 @@ func IsGood(origin string, goods string) bool {
 		// first match search criteria (case insensitive)
 		if (strings.EqualFold(item.Country, origin)) && (strings.EqualFold(item.Goods, goods)) {
 			// now check if any unethical labor matches
-			if (strings.EqualFold(item.ChildLabor, yes)) || (strings.EqualFold(item.ForcedLabor, yes)) {
+			if item.ChildLabor || item.ForcedLabor {
 				status = false
 			}
 		}

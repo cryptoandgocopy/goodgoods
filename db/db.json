@@ -1,0 +1,2624 @@
+[
+  {
+    "country": "Afghanistan",
+    "goods": "Bricks",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Afghanistan",
+    "goods": "Carpets",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Afghanistan",
+    "goods": "Coal",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Afghanistan",
+    "goods": "Poppies",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Afghanistan",
+    "goods": "Salt",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Angola",
+    "goods": "Diamonds",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Argentina",
+    "goods": "Blueberries",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Argentina",
+    "goods": "Bricks",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Argentina",
+    "goods": "Cotton",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Argentina",
+    "goods": "Garlic",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Argentina",
+    "goods": "Garments",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Argentina",
+    "goods": "Grapes",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Argentina",
+    "goods": "Olives",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Argentina",
+    "goods": "Strawberries",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Argentina",
+    "goods": "Tobacco",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Argentina",
+    "goods": "Tomatoes",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Argentina",
+    "goods": "Yerba Mate (stimulant plant)",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Azerbaijan",
+    "goods": "Cotton",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Bangladesh",
+    "goods": "Bidis (hand-rolled cigarettes)",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Bangladesh",
+    "goods": "Bricks",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Bangladesh",
+    "goods": "Dried Fish",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Bangladesh",
+    "goods": "Footwear",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Bangladesh",
+    "goods": "Furniture (steel)",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Bangladesh",
+    "goods": "Garments",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Bangladesh",
+    "goods": "Glass",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Bangladesh",
+    "goods": "Leather",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Bangladesh",
+    "goods": "Matches",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Bangladesh",
+    "goods": "Poultry",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Bangladesh",
+    "goods": "Salt",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Bangladesh",
+    "goods": "Shrimp",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Bangladesh",
+    "goods": "Soap",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Bangladesh",
+    "goods": "Textiles",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Bangladesh",
+    "goods": "Textiles (jute)",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Belize",
+    "goods": "Bananas",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Belize",
+    "goods": "Citrus Fruits",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Belize",
+    "goods": "Sugarcane",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Benin",
+    "goods": "Cotton",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Benin",
+    "goods": "Granite (crushed)",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Bolivia",
+    "goods": "Brazil Nuts/Chestnuts",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Bolivia",
+    "goods": "Bricks",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Bolivia",
+    "goods": "Cattle",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "Bolivia",
+    "goods": "Corn",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Bolivia",
+    "goods": "Gold",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Bolivia",
+    "goods": "Peanuts",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "Bolivia",
+    "goods": "Silver",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Bolivia",
+    "goods": "Sugarcane",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Bolivia",
+    "goods": "Tin",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Bolivia",
+    "goods": "Zinc",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Brazil",
+    "goods": "Bananas",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Brazil",
+    "goods": "Beef",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Brazil",
+    "goods": "Bricks",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Brazil",
+    "goods": "Cashews",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Brazil",
+    "goods": "Cattle",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Brazil",
+    "goods": "Ceramics",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Brazil",
+    "goods": "Charcoal",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Brazil",
+    "goods": "Cocoa",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Brazil",
+    "goods": "Coffee",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Brazil",
+    "goods": "Corn",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Brazil",
+    "goods": "Cotton",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Brazil",
+    "goods": "Fish",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Brazil",
+    "goods": "Footwear",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Brazil",
+    "goods": "Garments",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "Brazil",
+    "goods": "Hogs",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Brazil",
+    "goods": "Manioc/Cassava",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Brazil",
+    "goods": "Pineapples",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Brazil",
+    "goods": "Poultry",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Brazil",
+    "goods": "Rice",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Brazil",
+    "goods": "Sheep",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Brazil",
+    "goods": "Sisal",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Brazil",
+    "goods": "Sugarcane",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Brazil",
+    "goods": "Timber",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "Brazil",
+    "goods": "Tobacco",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Burkina Faso",
+    "goods": "Cotton",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Burkina Faso",
+    "goods": "Gold",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Burkina Faso",
+    "goods": "Granite",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Burma",
+    "goods": "Bamboo",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Burma",
+    "goods": "Beans (green, soy, yellow)",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Burma",
+    "goods": "Bricks",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Burma",
+    "goods": "Garments",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Burma",
+    "goods": "Jade",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Burma",
+    "goods": "Palm Thatch",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "Burma",
+    "goods": "Rice",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Burma",
+    "goods": "Rubber",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Burma",
+    "goods": "Rubies",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Burma",
+    "goods": "Sesame",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "Burma",
+    "goods": "Shrimp",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "Burma",
+    "goods": "Sugarcane",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Burma",
+    "goods": "Sunflowers",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "Burma",
+    "goods": "Teak",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Cambodia",
+    "goods": "Alcoholic Beverages",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Cambodia",
+    "goods": "Bovines",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Cambodia",
+    "goods": "Bricks",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Cambodia",
+    "goods": "Fish",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Cambodia",
+    "goods": "Manioc/Cassava",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Cambodia",
+    "goods": "Meat",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Cambodia",
+    "goods": "Rubber",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Cambodia",
+    "goods": "Salt",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Cambodia",
+    "goods": "Shrimp",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Cambodia",
+    "goods": "Sugarcane",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Cambodia",
+    "goods": "Textiles",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Cambodia",
+    "goods": "Timber",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Cambodia",
+    "goods": "Tobacco",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Cameroon",
+    "goods": "Cocoa",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Central African Republic",
+    "goods": "Diamonds",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Chad",
+    "goods": "Cattle",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "China",
+    "goods": "Artificial Flowers",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "China",
+    "goods": "Bricks",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "China",
+    "goods": "Christmas Decorations",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "China",
+    "goods": "Coal",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "China",
+    "goods": "Cotton",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "China",
+    "goods": "Electronics",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "China",
+    "goods": "Fireworks",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "China",
+    "goods": "Fish",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "China",
+    "goods": "Footwear",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "China",
+    "goods": "Garments",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "China",
+    "goods": "Gloves",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "China",
+    "goods": "Hair Products",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "China",
+    "goods": "Nails",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "China",
+    "goods": "Textiles",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "China",
+    "goods": "Toys",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "China",
+    "goods": "Tomato Products",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "China",
+    "goods": "Thread/Yarn",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "Colombia",
+    "goods": "Bricks (clay)",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Colombia",
+    "goods": "Coal",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Colombia",
+    "goods": "Coca (stimulant plant)",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Colombia",
+    "goods": "Coffee",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Colombia",
+    "goods": "Emeralds",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Colombia",
+    "goods": "Fruits (Pome and Stone)",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Colombia",
+    "goods": "Gold",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Colombia",
+    "goods": "Grapes",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Colombia",
+    "goods": "Pornography",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Colombia",
+    "goods": "Sugarcane",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Costa Rica",
+    "goods": "Cattle",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Costa Rica",
+    "goods": "Coffee",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Cote d'Ivoire",
+    "goods": "Cocoa",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Cote d'Ivoire",
+    "goods": "Coffee",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "goods": "Cobalt ore (heterogenite)",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "goods": "Copper",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "goods": "Diamonds",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "goods": "Gold",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "goods": "Tantalum ore (coltan)",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "goods": "Tin ore (cassiterite)",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "goods": "Tungsten ore (wolframite)",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Dominican Republic",
+    "goods": "Baked Goods",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Dominican Republic",
+    "goods": "Coffee",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Dominican Republic",
+    "goods": "Rice",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Dominican Republic",
+    "goods": "Sugarcane",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Dominican Republic",
+    "goods": "Tomatoes",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Ecuador",
+    "goods": "Bananas",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Ecuador",
+    "goods": "Bricks",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Ecuador",
+    "goods": "Flowers",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Ecuador",
+    "goods": "Gold",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Egypt",
+    "goods": "Bricks",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Egypt",
+    "goods": "Cotton",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Egypt",
+    "goods": "Stones (limestone)",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "El Salvador",
+    "goods": "Baked Goods",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "El Salvador",
+    "goods": "Cattle",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "El Salvador",
+    "goods": "Cereal Grains",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "El Salvador",
+    "goods": "Coffee",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "El Salvador",
+    "goods": "Fireworks",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "El Salvador",
+    "goods": "Shellfish",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "El Salvador",
+    "goods": "Sugarcane",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Eswatini",
+    "goods": "Bovines",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Ethiopia",
+    "goods": "Cattle",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Ethiopia",
+    "goods": "Gold",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Ethiopia",
+    "goods": "Khat",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Ethiopia",
+    "goods": "Textiles (hand-woven)",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Ghana",
+    "goods": "Cocoa",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Ghana",
+    "goods": "Fish",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Ghana",
+    "goods": "Gold",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Ghana",
+    "goods": "Tilapia (fish)",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Guatemala",
+    "goods": "Broccoli",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Guatemala",
+    "goods": "Coffee",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Guatemala",
+    "goods": "Corn",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Guatemala",
+    "goods": "Fireworks",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Guatemala",
+    "goods": "Gravel (crushed stones)",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Guatemala",
+    "goods": "Sugarcane",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Guinea",
+    "goods": "Cashews",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Guinea",
+    "goods": "Cocoa",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Guinea",
+    "goods": "Coffee",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Guinea",
+    "goods": "Diamonds",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Guinea",
+    "goods": "Gold",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Honduras",
+    "goods": "Coffee",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Honduras",
+    "goods": "Lobsters",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Honduras",
+    "goods": "Melons",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "India",
+    "goods": "Bidis (hand-rolled cigarettes)",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "India",
+    "goods": "Brassware",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "India",
+    "goods": "Bricks",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "India",
+    "goods": "Carpets",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "India",
+    "goods": "Cottonseed (hybrid)",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "India",
+    "goods": "Embellished Textiles",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "India",
+    "goods": "Fireworks",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "India",
+    "goods": "Footwear",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "India",
+    "goods": "Garments",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "India",
+    "goods": "Gems",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "India",
+    "goods": "Glass Bangles",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "India",
+    "goods": "Incense (agarbatti)",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "India",
+    "goods": "Leather Goods/Accessories",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "India",
+    "goods": "Locks",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "India",
+    "goods": "Matches",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "India",
+    "goods": "Mica",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "India",
+    "goods": "Rice",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "India",
+    "goods": "Sandstone",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "India",
+    "goods": "Silk Fabric",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "India",
+    "goods": "Silk Thread",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "India",
+    "goods": "Soccer Balls",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "India",
+    "goods": "Stones",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "India",
+    "goods": "Sugarcane",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "India",
+    "goods": "Thread/Yarn",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "India",
+    "goods": "Cotton",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Indonesia",
+    "goods": "Fish",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Indonesia",
+    "goods": "Footwear (sandals)",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Indonesia",
+    "goods": "Gold",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Indonesia",
+    "goods": "Oil (palm)",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Indonesia",
+    "goods": "Rubber",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Indonesia",
+    "goods": "Tin",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Indonesia",
+    "goods": "Tobacco",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Iran",
+    "goods": "Bricks",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Iran",
+    "goods": "Carpets",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Kazakhstan",
+    "goods": "Cotton",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Kenya",
+    "goods": "Coffee",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Kenya",
+    "goods": "Fish",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Kenya",
+    "goods": "Gold",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Kenya",
+    "goods": "Khat/Miraa (stimulant plant)",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Kenya",
+    "goods": "Rice",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Kenya",
+    "goods": "Sand",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Kenya",
+    "goods": "Sisal",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Kenya",
+    "goods": "Sugarcane",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Kenya",
+    "goods": "Tea",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Kenya",
+    "goods": "Tobacco",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Kyrgyz Republic",
+    "goods": "Cotton",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Kyrgyz Republic",
+    "goods": "Tobacco",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Lebanon",
+    "goods": "Potatoes",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Lebanon",
+    "goods": "Tobacco",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Lesotho",
+    "goods": "Cattle",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Liberia",
+    "goods": "Diamonds",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Liberia",
+    "goods": "Rubber",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Madagascar",
+    "goods": "Mica",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Madagascar",
+    "goods": "Sapphires",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Madagascar",
+    "goods": "Stones",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Madagascar",
+    "goods": "Vanilla",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Malawi",
+    "goods": "Tea",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Malawi",
+    "goods": "Tobacco",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Malaysia",
+    "goods": "Electronics",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "Malaysia",
+    "goods": "Garments",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "Malaysia",
+    "goods": "Oil (palm)",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Malaysia",
+    "goods": "Rubber Gloves",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "Mali",
+    "goods": "Cotton",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Mali",
+    "goods": "Gold",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Mali",
+    "goods": "Rice",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Mauritania",
+    "goods": "Cattle",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Mauritania",
+    "goods": "Goats",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Mexico",
+    "goods": "Beans (green beans)",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Mexico",
+    "goods": "Cattle",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Mexico",
+    "goods": "Chile Peppers",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Mexico",
+    "goods": "Coffee",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Mexico",
+    "goods": "Cucumbers",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Mexico",
+    "goods": "Eggplants",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Mexico",
+    "goods": "Garments",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Mexico",
+    "goods": "Leather Goods",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Mexico",
+    "goods": "Melons",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Mexico",
+    "goods": "Onions",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Mexico",
+    "goods": "Poppies",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Mexico",
+    "goods": "Pornography",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Mexico",
+    "goods": "Sugarcane",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Mexico",
+    "goods": "Tobacco",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Mexico",
+    "goods": "Tomatoes",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Mongolia",
+    "goods": "Coal",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Mongolia",
+    "goods": "Fluorspar (mineral)",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Mongolia",
+    "goods": "Gold",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Mozambique",
+    "goods": "Tobacco",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Nepal",
+    "goods": "Bricks",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Nepal",
+    "goods": "Carpets",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Nepal",
+    "goods": "Embellished Textiles",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Nepal",
+    "goods": "Stones",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Nicaragua",
+    "goods": "Bananas",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Nicaragua",
+    "goods": "Coffee",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Nicaragua",
+    "goods": "Gold",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Nicaragua",
+    "goods": "Gravel (crushed stones)",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Nicaragua",
+    "goods": "Shellfish",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Nicaragua",
+    "goods": "Stones (pumice)",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Nicaragua",
+    "goods": "Tobacco",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Niger",
+    "goods": "Cattle",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "Niger",
+    "goods": "Gold",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Niger",
+    "goods": "Gypsum (mineral)",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Niger",
+    "goods": "Salt",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Niger",
+    "goods": "Trona (mineral)",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Nigeria",
+    "goods": "Cocoa",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Nigeria",
+    "goods": "Gold",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Nigeria",
+    "goods": "Granite",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Nigeria",
+    "goods": "Gravel (crushed stones)",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Nigeria",
+    "goods": "Manioc/Cassava",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Nigeria",
+    "goods": "Sand",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "North Korea",
+    "goods": "Bricks",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "North Korea",
+    "goods": "Cement",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "North Korea",
+    "goods": "Coal",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "North Korea",
+    "goods": "Gold",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "North Korea",
+    "goods": "Iron",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "North Korea",
+    "goods": "Textiles",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "North Korea",
+    "goods": "Timber",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "Pakistan",
+    "goods": "Bricks",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Pakistan",
+    "goods": "Carpets",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Pakistan",
+    "goods": "Coal",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Pakistan",
+    "goods": "Cotton",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "Pakistan",
+    "goods": "Glass Bangles",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Pakistan",
+    "goods": "Leather",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Pakistan",
+    "goods": "Sugarcane",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "Pakistan",
+    "goods": "Surgical Instruments",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Pakistan",
+    "goods": "Wheat",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "Panama",
+    "goods": "Coffee",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Panama",
+    "goods": "Melons",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Paraguay",
+    "goods": "Beans",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Paraguay",
+    "goods": "Bricks",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Paraguay",
+    "goods": "Cabbages",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Paraguay",
+    "goods": "Carrots",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Paraguay",
+    "goods": "Cattle",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Paraguay",
+    "goods": "Corn",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Paraguay",
+    "goods": "Fish",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Paraguay",
+    "goods": "Goats",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Paraguay",
+    "goods": "Hogs",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Paraguay",
+    "goods": "Lettuce",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Paraguay",
+    "goods": "Manioc/Cassava",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Paraguay",
+    "goods": "Melons",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Paraguay",
+    "goods": "Onions",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Paraguay",
+    "goods": "Peanuts",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Paraguay",
+    "goods": "Peppers",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Paraguay",
+    "goods": "Pornography",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Paraguay",
+    "goods": "Poultry",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Paraguay",
+    "goods": "Sesame",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Paraguay",
+    "goods": "Sheep",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Paraguay",
+    "goods": "Stones (limestone)",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Paraguay",
+    "goods": "Sugarcane",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Paraguay",
+    "goods": "Sweet Potatoes",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Paraguay",
+    "goods": "Tomatoes",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Paraguay",
+    "goods": "Yerba Mate (stimulant plant)",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Peru",
+    "goods": "Brazil Nuts/Chestnuts",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "Peru",
+    "goods": "Bricks",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Peru",
+    "goods": "Coca (stimulant plant)",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Peru",
+    "goods": "Fireworks",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Peru",
+    "goods": "Fish",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Peru",
+    "goods": "Gold",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Peru",
+    "goods": "Timber",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "Philippines",
+    "goods": "Bananas",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Philippines",
+    "goods": "Coconuts",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Philippines",
+    "goods": "Corn",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Philippines",
+    "goods": "Fashion Accessories",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Philippines",
+    "goods": "Fish",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Philippines",
+    "goods": "Gold",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Philippines",
+    "goods": "Hogs",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Philippines",
+    "goods": "Pornography",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Philippines",
+    "goods": "Pyrotechnics",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Philippines",
+    "goods": "Rice",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Philippines",
+    "goods": "Rubber",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Philippines",
+    "goods": "Sugarcane",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Philippines",
+    "goods": "Tobacco",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Russia",
+    "goods": "Bricks",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "Russia",
+    "goods": "Pornography",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Russia",
+    "goods": "Timber",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "Rwanda",
+    "goods": "Tea",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Senegal",
+    "goods": "Gold",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Sierra Leone",
+    "goods": "Cocoa",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Sierra Leone",
+    "goods": "Coffee",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Sierra Leone",
+    "goods": "Diamonds",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Sierra Leone",
+    "goods": "Granite",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Sierra Leone",
+    "goods": "Oil (Palm)",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "South Sudan",
+    "goods": "Cattle",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Sudan",
+    "goods": "Gold",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Suriname",
+    "goods": "Gold",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Tajikistan",
+    "goods": "Cotton",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Tanzania",
+    "goods": "Cloves",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Tanzania",
+    "goods": "Coffee",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Tanzania",
+    "goods": "Nile Perch (fish)",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Tanzania",
+    "goods": "Gold",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Tanzania",
+    "goods": "Sisal",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Tanzania",
+    "goods": "Tanzanite (gems)",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Tanzania",
+    "goods": "Tea",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Tanzania",
+    "goods": "Tobacco",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Thailand",
+    "goods": "Fish",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "Thailand",
+    "goods": "Garments",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Thailand",
+    "goods": "Pornography",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Thailand",
+    "goods": "Shrimp",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Thailand",
+    "goods": "Sugarcane",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Taiwan",
+    "goods": "Fish",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "Turkey",
+    "goods": "Citrus Fruits",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Turkey",
+    "goods": "Cotton",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Turkey",
+    "goods": "Cumin",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Turkey",
+    "goods": "Footwear",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Turkey",
+    "goods": "Furniture",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Turkey",
+    "goods": "Garments",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Turkey",
+    "goods": "Hazelnuts",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Turkey",
+    "goods": "Peanuts",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Turkey",
+    "goods": "Pulses (legumes)",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Turkey",
+    "goods": "Sugar Beets",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Turkmenistan",
+    "goods": "Cotton",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Uganda",
+    "goods": "Bricks",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Uganda",
+    "goods": "Cattle",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Uganda",
+    "goods": "Charcoal",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Uganda",
+    "goods": "Coffee",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Uganda",
+    "goods": "Fish",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Uganda",
+    "goods": "Gold",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Uganda",
+    "goods": "Rice",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Uganda",
+    "goods": "Sand",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Uganda",
+    "goods": "Stones",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Uganda",
+    "goods": "Sugarcane",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Uganda",
+    "goods": "Tea",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Uganda",
+    "goods": "Tobacco",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Uganda",
+    "goods": "Vanilla",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Ukraine",
+    "goods": "Amber",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Ukraine",
+    "goods": "Coal",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Ukraine",
+    "goods": "Pornography",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Uzbekistan",
+    "goods": "Cotton",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "Uzbekistan",
+    "goods": "Silk Cocoons",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "Venezuela",
+    "goods": "Gold",
+    "child_labor": false,
+    "forced_labor": true
+  },
+  {
+    "country": "Vietnam",
+    "goods": "Bricks",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Vietnam",
+    "goods": "Cashews",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Vietnam",
+    "goods": "Coffee",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Vietnam",
+    "goods": "Fish",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Vietnam",
+    "goods": "Footwear",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Vietnam",
+    "goods": "Furniture",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Vietnam",
+    "goods": "Garments",
+    "child_labor": true,
+    "forced_labor": true
+  },
+  {
+    "country": "Vietnam",
+    "goods": "Leather",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Vietnam",
+    "goods": "Pepper",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Vietnam",
+    "goods": "Rice",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Vietnam",
+    "goods": "Rubber",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Vietnam",
+    "goods": "Sugarcane",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Vietnam",
+    "goods": "Tea",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Vietnam",
+    "goods": "Textiles",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Vietnam",
+    "goods": "Timber",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Vietnam",
+    "goods": "Tobacco",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Yemen",
+    "goods": "Fish",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Zambia",
+    "goods": "Cattle",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Zambia",
+    "goods": "Cotton",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Zambia",
+    "goods": "Gems",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Zambia",
+    "goods": "Stones",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Zambia",
+    "goods": "Tobacco",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Zimbabwe",
+    "goods": "Sugarcane",
+    "child_labor": true,
+    "forced_labor": false
+  },
+  {
+    "country": "Zimbabwe",
+    "goods": "Tobacco",
+    "child_labor": true,
+    "forced_labor": false
+  }
+]
