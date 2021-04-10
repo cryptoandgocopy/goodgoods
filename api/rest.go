@@ -4,7 +4,6 @@ import (
 	"encoding/json"
 	"log"
 
-	"goodgoods/remote"
 	"goodgoods/utils"
 
 	fiber "github.com/gofiber/fiber/v2"
@@ -46,9 +45,8 @@ func Create() {
 Handle api request for isGood
 */
 func isGood(c *fiber.Ctx) error {
-	// check remote source
-	responseDOL, err := remote.IsGood(c.Params("origin"), c.Params("goods"))
-	utils.CheckErr(err)
+	// check data
+	responseDOL := true //data.IsGood(c.Params("origin"), c.Params("goods"))
 
 	// build JSON response
 	ead := externalAdapterData{responseDOL}

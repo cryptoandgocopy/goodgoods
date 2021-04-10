@@ -9,8 +9,7 @@ import (
 
 // Configurations exported
 type Configurations struct {
-	DOL_API_URL_CountryGoods string
-	DOL_API_KEY              string
+	DB_Path string
 }
 
 // Config provides access to settings
