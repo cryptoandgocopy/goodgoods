@@ -39,7 +39,7 @@ func Create() {
 	app.Get("/isGood/:origin/:goods", isGood)
 
 	// start
-	log.Fatal(app.Listen(":80"))
+	log.Fatal(app.Listen(":3000"))
 }
 
 /*
