@@ -14,8 +14,18 @@ import (
 )
 
 /*
-Data structures for API response
+Data structures for API request and response
 */
+type apiRequest struct {
+	ID   string         `json:"id"`
+	Data apiRequestData `json:"data"`
+}
+
+type apiRequestData struct {
+	Origin string `json:"origin"`
+	Goods  string `json:"goods"`
+}
+
 type externalAdapterResponse struct {
 	JobRunID string              `json:"jobRunID"`
 	Data     externalAdapterData `json:"data"`
@@ -25,16 +35,6 @@ type externalAdapterResponse struct {
 
 type externalAdapterData struct {
 	IsGood bool `json:"isGood"`
-}
-
-type apiRequest struct {
-	ID   string         `json:"id"`
-	Data apiRequestData `json:"data"`
-}
-
-type apiRequestData struct {
-	Origin string `json:"origin"`
-	Goods  string `json:"goods"`
 }
 
 /*
@@ -50,7 +50,7 @@ func Create() {
 	// handlers
 	app.Post("/isGood", isGood)
 
-	// start
+	// determine port
 	port := ":3000"
 	if os.Getenv("PORT") != "" {
 		var sb strings.Builder
@@ -58,6 +58,8 @@ func Create() {
 		sb.WriteString(os.Getenv("PORT"))
 		port = sb.String()
 	}
+
+	// start
 	log.Fatal(app.Listen(port))
 }
 

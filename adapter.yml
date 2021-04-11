@@ -1,0 +1,11 @@
+name: GoodGoods
+description: Confirms if goods are created using child and/or forced labor
+node_identifier: isGood
+platforms:
+  - Docker
+data_sources:
+  - name: Heroku
+    url: https://good-goods.herokuapp.com/isGood
+parameters:
+  - origin
+  - goods
